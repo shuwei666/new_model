@@ -69,6 +69,20 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Professional Activities -->
+          {% if site.professional_activities %}
+          <div class="professional-activities">
+            <h2>professional activities</h2>
+            <p>I am a reviewer for the following publication venues:</p>
+            <ul>
+              {% for activity in site.professional_activities %}
+              <li>{{ activity.title }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+
+
         </article>
 
 </div>

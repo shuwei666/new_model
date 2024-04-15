@@ -225,6 +225,9 @@ scholar:
 
   query: "@*"
 
+professional_activities:
+  - title: "Journal of Optical Society of America (JOSA)"
+  - title: "ACM Multimedia (ACMMM)"
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
