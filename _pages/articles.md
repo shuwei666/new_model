@@ -5,4 +5,4 @@ title: zen articles
 nav: true
 ---
 
-![WallE](https://shuweiyue.com/assets/img/walle.jpg)
+![WallE]({{ '/assets/img/walle.jpg' | relative_url }})
