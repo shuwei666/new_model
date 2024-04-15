@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hoang M. Le # the website title (if blank, full name will be used instead)
-first_name: Hoang
-middle_name: M.
-last_name: Le
-email: hminle@yorku.ca
+title: Shuwei(Shaun) Yue # the website title (if blank, full name will be used instead)
+first_name: Shuwei
+middle_name:
+last_name: Yue
+email: shuwei.yue@connect.polyu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   hminle's website.
 footer_text: >
@@ -37,7 +37,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 850px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -53,11 +53,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: hminle # your GitHub user name
+github_username: shuwei666  # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: hminle # your Twitter handle
-linkedin_username: hminle # your LinkedIn user name
-scholar_userid: v7CDUl0AAAAJ # your Google Scholar ID
+# twitter_username: hminle # your Twitter handle
+linkedin_username: shuwei-yue # your LinkedIn user name
+scholar_userid: ysI3JakAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -69,7 +69,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-cv_pdf: https://drive.google.com/file/d/1thJh3qxkUPhmlinqjjqWKZTUhCBEeTVL/view
+# cv_pdf: https://drive.google.com/file/d/1thJh3qxkUPhmlinqjjqWKZTUhCBEeTVL/view
 
 contact_note:
 
@@ -203,8 +203,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Le
-  first_name: [Hoang, H.]
+  last_name: Yue
+  first_name: [Shuwei]
 
   style: apa
   locale: en

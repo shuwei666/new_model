@@ -7,9 +7,9 @@ supervisor: Prof. Michael S. Brown
 
 profile:
   align: right
-  image: anh_mang_kinhIMG_5975_3.png
+  image: my.jpg
   address: >
-    <p>Toronto, Canada</p>
+    <p>Hong Kong, China</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
