@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Computer Science, York University, Canada
-supervisor: Prof. Michael S. Brown
+subtitle: PhD in Imaging Science, the Hong Kong Polytechnic University, Hong Kong SAR.
+supervisor: Prof. Minchen Wei
 
 profile:
   align: right
@@ -11,10 +11,19 @@ profile:
   address: >
     <p>Hong Kong, China</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+patents: false # includes a list of patents
+professional-activities: true
 social: true  # includes social icons at the bottom of the page
-patents: true # includes a list of patents
+
 ---
 
-I am a PhD student supervised by [Prof. Michael S. Brown](http://www.cse.yorku.ca/~mbrown/). My research interests are computer vision, image processing, and computational color. **[Click here to see my latest CV](https://drive.google.com/file/d/1thJh3qxkUPhmlinqjjqWKZTUhCBEeTVL/view)**.
+
+I am a Ph.D. candidate supervised by [Prof. Minchen(Tommy) Wei](https://www.polyucolorlab.com/leader.html). My research interests are centered in color science related to 2D and 3D vision. Currently, I am focusing on the following topics:
+
+- Color constancy in challenging scenarios, such as pure color scenes, cross-sensor applications, and multi-illumination scenes.
+- Tone mapping/Gamut mapping.
+- AI ISP.
+- Color in AR/VR/MR.
+- Machine learning and GenAI.
