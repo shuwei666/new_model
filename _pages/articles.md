@@ -1,7 +1,7 @@
 ---
 layout: page
 title: zen articles
-#permalink: /professional-activities/
+# permalink: /
 nav: true
 ---
 

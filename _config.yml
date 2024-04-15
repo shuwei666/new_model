@@ -163,7 +163,6 @@ defaults:
       sitemap:         false
 # Extras
 # github: [metadata]
-# repository: hminle/hminle.github.io
 
 # -----------------------------------------------------------------------------
 # Jekyll optimization
