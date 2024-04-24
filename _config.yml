@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Shuwei(Shaun) Yue,岳书威 # the website title (if blank, full name will be used instead)
+title: Shuwei(Shaun) Yue, 岳书威 # the website title (if blank, full name will be used instead)
 first_name: Shuwei
 middle_name:
 last_name: Yue
@@ -55,7 +55,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: shuwei666  # your GitHub user name
 gitlab_username: # your GitLab user name
-# twitter_username: hminle # your Twitter handle
 linkedin_username: shuwei-yue # your LinkedIn user name
 scholar_userid: ysI3JakAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
