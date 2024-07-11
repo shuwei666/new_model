@@ -6,7 +6,7 @@ title: Shuwei(Shaun) Yue, 岳书威 # the website title (if blank, full name wil
 first_name: Shuwei
 middle_name:
 last_name: Yue
-email: shuwei.yue@connect.polyu.hk
+# email: shuwei.yue@connect.polyu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   shuwei's website.
 footer_text: >
@@ -226,6 +226,8 @@ scholar:
 
 professional_activities:
   - title: "Journal of Optical Society of America A(JOSA A)"
+  - title: "Optics Express"
+  - title: "Color research and application"
   - title: "ACM Multimedia (ACM MM)"
 
 # -----------------------------------------------------------------------------
