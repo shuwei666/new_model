@@ -20,17 +20,17 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a third year Ph.D. candidate supervised by [Prof. Minchen(Tommy) Wei](https://www.polyucolorlab.com/leader.html). My research interests are centered in color science related to 2D and 3D vision. Currently, I am focusing on the following topics:
+I am a third year Ph.D. candidate supervised by [Prof. Minchen(Tommy) Wei](https://www.polyucolorlab.com/leader.html). My main research interests now are centered in color science related to 2D and 3D vision. Currently, I am focusing on the following topics:
 
 - Color constancy in challenging scenarios, such as pure color scenes, cross-sensor applications, and multi-illumination scenes.
 - Tone mapping/Gamut mapping.
 - AI ISP
-- Color vision science for AR/VR/MR
+- Color vision for AR/VR/MR
 - Machine learning and GenAI.
 
-Email: **vividwayway@163.com**
+Email: **vividwayway dot 163.com**
+
+Wechat: **long-life-student666**(please remove all '**-**')
 
 
-I am open to collaboration in various fields and willing to answer any academic-related questions!
-
-
+I am actively seeking collaborations in various fields and am open to discussing any academic-related questions. Please don't hesitate to contact me if you are interested.
