@@ -15,7 +15,7 @@ nav: true
 
 ## 2. Single-illuminant dataset: Cube+ dataset
 
-Cube+ is large enough to test DNN-based models and have I re-processed it into *tiff* and *json* format.
+Cube+ is large enough to test DNN-based models and I have re-processed it into *tiff* and *json* format.
 
 
 - [Downloaded link](https://connectpolyu-my.sharepoint.com/:f:/g/personal/21064184r_connect_polyu_hk/Eqw6hP9UqbhJj25l1c3HLG8B5ulfH-p_c3aix5_ja4y0IQ?e=MFtAfc)
