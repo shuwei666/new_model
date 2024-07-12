@@ -28,7 +28,7 @@ I am a third year Ph.D. candidate supervised by [Prof. Minchen(Tommy) Wei](https
 - Color vision for AR/VR/MR
 - Machine learning and GenAI.
 
-Email: **vividwayway dot 163.com**
+Email: **vividwayway at 163 dot com**
 
 Wechat: **long-life-student666**(please remove all '**-**')
 
