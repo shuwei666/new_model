@@ -30,7 +30,7 @@ I am a third year Ph.D. candidate supervised by [Prof. Minchen(Tommy) Wei](https
 
 Email: **vividwayway at 163 dot com**
 
-Wechat: **long-life-student666**(please remove all '**-**')
+<!-- Wechat: **long-life-student666**(please remove all '**-**') -->
 
 
-I am actively seeking collaborations in various fields and am open to discussing any academic-related questions. Please don't hesitate to contact me if you are interested.
+I am actively seeking collaborations in various fields and please don't hesitate to contact me if you are interested.
