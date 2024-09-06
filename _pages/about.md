@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Imaging Science, the Hong Kong Polytechnic University, Hong Kong SAR.
+subtitle: PhD in Imaging Science(Color & AI), the Hong Kong Polytechnic University, Hong Kong SAR.
 supervisor: Prof. Minchen Wei
 
 profile:
@@ -20,15 +20,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a third year Ph.D. candidate supervised by [Prof. Minchen(Tommy) Wei](https://www.polyucolorlab.com/leader.html). My main research interests now are centered in color science related to 2D and 3D vision. Currently, I am focusing on the following topics:
+I am a Ph.D supervised by [Prof. Minchen(Tommy) Wei](https://www.polyucolorlab.com/leader.html). My main research interests now are centered in color science related to 2D and 3D vision. Currently, I am focusing on the following topics:
 
-- Color constancy in challenging scenarios, such as pure color scenes, cross-sensor applications, and multi-illumination scenes.
-- Tone mapping/Gamut mapping.
-- AI ISP
-- Color vision for AR/VR/MR
+- Color constancy.
+- HDR/Tone mapping/Gamut mapping.
+- AI ISP.
 - Machine learning and GenAI.
 
-Email: **vividwayway at 163 dot com**
+Email: **vividway at 163 dot com**\\
 Wechat: **long-life-student666**(please remove all '**-**')
 
-I am actively seeking collaborations in various fields and please don't hesitate to contact me if you are interested.
+I am actively seeking collaborations in various fields and please don't hesitate to contact me if you are interested!
