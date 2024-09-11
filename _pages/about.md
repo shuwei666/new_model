@@ -31,5 +31,5 @@ I am actively seeking collaborations and jobs opportunities in these areas.\\
 Please feel free to contact me if you are interested in discussing potential projects or positions.
 
 
-Email: **vividway at 163 dot com**\\
+Email: **vividwayway at 163 dot com**\\
 Wechat: **long-life-student666**(please remove all '**-**')
