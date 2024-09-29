@@ -26,7 +26,6 @@ I am a recent PhD graduate in imaging science, supervised by [Prof. Minchen(Tomm
 - AI ISP.
 - Machine learning and GenAI.
 
-
 I am actively seeking collaborations and jobs opportunities in these areas.\\
 Please feel free to contact me if you are interested in discussing potential projects or positions.
 
