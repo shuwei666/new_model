@@ -19,12 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a recent PhD graduate in imaging science, supervised by [Prof. Minchen(Tommy) Wei](https://www.polyucolorlab.com/leader.html). My research focus on **Color Science & AI**, with particular interests in:
+I am a recent PhD graduate in imaging\&lighting science, supervised by [Prof. Minchen(Tommy) Wei](https://www.polyucolorlab.com/leader.html). My research focus on **Color Science, AI , and Smart Lighting**, with particular interests in:
 
-- Color constancy.
-- HDR, Tone mapping, Gamut mapping.
+- Color constancy, HDR, Tone mapping, Gamut mapping.
 - AI ISP.
-- Machine learning and GenAI.
+- Smart lighting(adaptive color temperature control).
 
 I am actively seeking collaborations and jobs opportunities in these areas.\\
 Please feel free to contact me if you are interested in discussing potential projects or positions.
